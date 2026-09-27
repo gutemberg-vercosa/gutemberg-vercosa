@@ -12,15 +12,9 @@
 
 ## Quem eu sou
 
-Sete anos rodando operação em empresas grandes (Pluxee, SBT, Natura) me ensinaram uma coisa: processo mal desenhado quebra em produção, seja em Excel ou em código. Formado em Engenharia de Produção pela ESEG, passei esse tempo mexendo em ERP (SAP, Oracle), Salesforce, reconciliação financeira e dashboards de indicadores — e em algum momento percebi que a parte que eu mais gostava era construir a ferramenta, não só usar ela.
+Formado em Engenharia de Produção (ESEG), trabalhei sete anos em operações (Pluxee, SBT, Natura), passando por ERP (SAP, Oracle), Salesforce, reconciliação financeira e relatórios de indicadores. Atualmente estou migrando para desenvolvimento .NET e dados: estudo C#, SQL, Git e Power BI, e apliquei isso em um sistema de gestão de propostas em Blazor/.NET desenvolvido para uma empresa.
 
-Hoje estou virando essa chave de verdade: estudo C#, SQL, Git e Power BI todos os dias, e uso esse conhecimento em projetos reais — incluindo um sistema de propostas em produção para uma empresa, feito em .NET/Blazor. Não é curso engavetado, é código rodando.
-
-- 🔭 Trabalhando em um sistema de gestão de propostas (Blazor + .NET + EF Core) para credenciamento de profissionais
-- 📚 Estudando C#, SQL e Power BI diariamente, com certificações concluídas em SQLite e Git
-- 🛠️ Uso Claude Code no dia a dia para acelerar desenvolvimento — sei tirar proveito de IA sem terceirizar entendimento
-- 💬 Pergunte-me sobre Excel avançado (Power Query, PivotTable, VBA/macros) — foi minha ferramenta de trabalho por anos antes do código
-- ⚡ Fun fact: comecei em eletrônica (técnico pela ETEC) antes de ir pra produção e depois pra dados/dev
+Uso Excel avançado (Power Query, PivotTable, VBA) desde a época de operações, e uso Claude Code no dia a dia de desenvolvimento.
 
 <br>
 
@@ -45,7 +39,7 @@ Hoje estou virando essa chave de verdade: estudo C#, SQL, Git e Power BI todos o
 <div align="center">
 
 <a href="https://github.com/LeandroRtSouza/proponentes_assim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroRtSouza&repo=proponentes_assim&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=LeandroRtSouza&repo=proponentes_assim&theme=tokyonight&hide_border=true" />
 </a>
 <br>
 <sub>Desenvolvido por mim para uma empresa (ASSIM) — repositório hospedado na conta do cliente/parceiro do projeto.</sub>
@@ -53,11 +47,11 @@ Hoje estou virando essa chave de verdade: estudo C#, SQL, Git e Power BI todos o
 <br><br>
 
 <a href="https://github.com/gutemberg-vercosa/lena-cabeleireira">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gutemberg-vercosa&repo=lena-cabeleireira&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gutemberg-vercosa&repo=lena-cabeleireira&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/gutemberg-vercosa/gastos-mensais">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gutemberg-vercosa&repo=gastos-mensais&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gutemberg-vercosa&repo=gastos-mensais&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -68,17 +62,11 @@ Hoje estou virando essa chave de verdade: estudo C#, SQL, Git e Power BI todos o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gutemberg-vercosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gutemberg-vercosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gutemberg-vercosa&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutemberg-vercosa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gutemberg-vercosa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gutemberg-vercosa&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <br>
@@ -102,9 +90,6 @@ Hoje estou virando essa chave de verdade: estudo C#, SQL, Git e Power BI todos o
 </a>
 <a href="https://instagram.com/gutooduarte">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/gutemberg-vercosa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
