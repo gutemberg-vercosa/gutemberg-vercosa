@@ -6,7 +6,7 @@
 
 <br>
 
-## Quem eu sou
+## Quem sou eu
 
 Formado em Engenharia de Produção (ESEG). Passei por Natura, SBT e Pluxee em funções variadas, com contato direto com processos, sistemas de gestão e rotinas administrativas e financeiras.
 
