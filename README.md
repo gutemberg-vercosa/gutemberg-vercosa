@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/banner.svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/gutemberg-duarte-25326b110/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Vindo+de+ERP+e+opera%C3%A7%C3%B5es+pro+lado+dev;Estudando+C%23%2C+SQL%2C+Git+e+Power+BI;Ainda+explorando+qual+stack+seguir;J%C3%A1+constru%C3%AD+um+sistema+em+Blazor%2F.NET;&font=Fira+Code&center=true&width=700&height=45&color=2C5364&vCenter=true&size=19&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=De+opera%C3%A7%C3%B5es+pra+programa%C3%A7%C3%A3o;Python+%C2%B7+C%23+%C2%B7+SQL+%C2%B7+Power+BI;Ainda+explorando+onde+focar;&font=Fira+Code&center=true&width=700&height=45&color=2C5364&vCenter=true&size=19&pause=1500"/>
 </a>
 
 </div>
@@ -12,25 +12,29 @@
 
 ## Quem eu sou
 
-Formado em Engenharia de Produção (ESEG). Passei por Natura, SBT e Pluxee em funções variadas — administrativo, comercial e, na minha última posição antes de sair da Pluxee, operações — mexendo com ERP (SAP, Oracle), Salesforce, reconciliação financeira e relatórios de indicadores.
+Formado em Engenharia de Produção (ESEG). Passei por Natura, SBT e Pluxee em funções variadas, com contato direto com processos, sistemas de gestão e rotinas administrativas e financeiras.
 
-Estou indo mais para o lado da programação, sem uma stack fechada ainda: estudo C#, SQL, Git e Power BI, e já apliquei isso em um sistema de gestão de propostas em Blazor/.NET desenvolvido para uma empresa. Uso Excel avançado (Power Query, PivotTable, VBA) desde a época de operações, e uso Claude Code no dia a dia de desenvolvimento.
+Sempre quis adicionar programação à minha bagagem de dados e estou fazendo isso agora, ainda sem uma stack fechada. Já desenvolvi alguns aplicativos e sistemas usados para solucionar diferentes problemas e, além disso, também possuo Excel avançado e Power BI, e uso IA no dia a dia de desenvolvimento.
 
 <br>
 
 ## Tecnologias que uso de verdade
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,sqlite,vscode,html,css,js&theme=dark" />
-</div>
+**Backend & Dados**
 
-<br>
+<img src="https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%2FSQLite-003B57?logo=sqlite&style=for-the-badge&logoColor=white"/>
 
-**Em uso profissional/prático:** C# · .NET · Blazor · Entity Framework Core · Git & GitHub · SQL (SQLite) · Excel avançado (Power Query, PivotTable, VBA)
+**Frontend**
 
-**Em fase final de certificação:** Power BI · Fundamentos de C#
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=white"/>
 
-**Ferramenta de operação (ERP/CRM):** Salesforce · SAP ERP · Oracle ERP
+**Produtividade & Dados**
+
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/VBA-867DB1?logo=visualbasic&style=for-the-badge&logoColor=white"/>
+
+**Ferramentas & Operação**
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge&logoColor=white"/>
 
 <br>
 
