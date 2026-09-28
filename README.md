@@ -2,10 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/banner.svg" width="100%"/>
 
-<a href="https://www.linkedin.com/in/gutemberg-duarte-25326b110/">
-  <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/typing.svg" width="700" height="45"/>
-</a>
-
 </div>
 
 <br>
@@ -24,19 +20,19 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 **Backend & Dados**
 
-<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/icons-backend.svg" />
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/csharp.svg" /></a> <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/dotnet.svg" /></a> <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/blazor.svg" /></a> <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/python.svg" /></a> <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/sql.svg" /></a>
 
 **Frontend**
 
-<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/icons-frontend.svg" />
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/html5.svg" /></a> <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/css3.svg" /></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/javascript.svg" /></a> <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/react.svg" /></a> <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/typescript.svg" /></a>
 
 **Produtividade & Dados**
 
-<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/icons-produtividade.svg" />
+<a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/excel.svg" /></a> <a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/powerbi.svg" /></a> <a href="https://learn.microsoft.com/office/vba/api/overview/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/vba.svg" /></a>
 
 **Ferramentas & Operação**
 
-<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/icons-ferramentas.svg" />
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/git.svg" /></a> <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/vscode.svg" /></a> <a href="https://claude.com/claude-code"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/claude.svg" /></a> <a href="https://www.salesforce.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/salesforce.svg" /></a> <a href="https://www.sap.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/sap.svg" /></a> <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/oracle.svg" /></a>
 
 </div>
 
