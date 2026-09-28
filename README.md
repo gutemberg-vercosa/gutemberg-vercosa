@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gutemberg%20Duarte&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ERP%20%26%20opera%C3%A7%C3%B5es%20%E2%86%92%20programa%C3%A7%C3%A3o&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/banner.svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/gutemberg-duarte-25326b110/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Vindo+de+ERP+e+opera%C3%A7%C3%B5es+pro+lado+dev;Estudando+C%23%2C+SQL%2C+Git+e+Power+BI;Ainda+explorando+qual+stack+seguir;J%C3%A1+constru%C3%AD+um+sistema+em+Blazor%2F.NET;&font=Fira+Code&center=true&width=700&height=45&color=2C5364&vCenter=true&size=19&pause=1500"/>
@@ -106,4 +106,4 @@ Controle de gastos mensais. Repositório privado.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/footer.svg" width="100%"/>

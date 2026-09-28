@@ -1,0 +1,22 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 40px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; fill: #ffffff; opacity: 0; animation: fadeIn 1s ease-out 0.1s forwards; }
+      .subtitle { font: 500 18px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; fill: #a8c6d8; opacity: 0; animation: fadeIn 1s ease-out 0.4s forwards; }
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <path d="M0,150 C200,190 400,110 600,150 C800,190 1000,110 1200,150 L1200,200 L0,200 Z" fill="#ffffff" opacity="0.06"/>
+  <path d="M0,170 C220,130 420,200 620,165 C820,130 1000,190 1200,165 L1200,200 L0,200 Z" fill="#ffffff" opacity="0.08"/>
+
+  <text x="600" y="95" text-anchor="middle" class="title">Gutemberg Duarte</text>
+  <text x="600" y="130" text-anchor="middle" class="subtitle">ERP &amp; operações → explorando programação</text>
+</svg>
