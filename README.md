@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gutemberg%20Duarte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dados%20%2B%20.NET%20%2B%20aprendizado%20constante&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gutemberg%20Duarte&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ERP%20%26%20opera%C3%A7%C3%B5es%20%E2%86%92%20programa%C3%A7%C3%A3o&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/gutemberg-duarte-25326b110/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Analista+de+Opera%C3%A7%C3%B5es+migrando+pra+.NET+%2F+Dados;Estudando+C%23%2C+SQL%2C+Git+e+Power+BI+todo+dia;Engenharia+de+Produ%C3%A7%C3%A3o+%2B+7+anos+de+opera%C3%A7%C3%A3o;Construindo+sistemas+reais%2C+n%C3%A3o+s%C3%B3+exerc%C3%ADcio;&font=Fira+Code&center=true&width=600&height=45&color=2C5364&vCenter=true&size=22&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Vindo+de+ERP+e+opera%C3%A7%C3%B5es+pro+lado+dev;Estudando+C%23%2C+SQL%2C+Git+e+Power+BI;Ainda+explorando+qual+stack+seguir;J%C3%A1+constru%C3%AD+um+sistema+em+Blazor%2F.NET;&font=Fira+Code&center=true&width=700&height=45&color=2C5364&vCenter=true&size=19&pause=1500"/>
 </a>
 
 </div>
@@ -12,9 +12,9 @@
 
 ## Quem eu sou
 
-Formado em Engenharia de Produção (ESEG), trabalhei sete anos em operações (Pluxee, SBT, Natura), passando por ERP (SAP, Oracle), Salesforce, reconciliação financeira e relatórios de indicadores. Atualmente estou migrando para desenvolvimento .NET e dados: estudo C#, SQL, Git e Power BI, e apliquei isso em um sistema de gestão de propostas em Blazor/.NET desenvolvido para uma empresa.
+Formado em Engenharia de Produção (ESEG). Passei por Natura, SBT e Pluxee em funções variadas — administrativo, comercial e, na minha última posição antes de sair da Pluxee, operações — mexendo com ERP (SAP, Oracle), Salesforce, reconciliação financeira e relatórios de indicadores.
 
-Uso Excel avançado (Power Query, PivotTable, VBA) desde a época de operações, e uso Claude Code no dia a dia de desenvolvimento.
+Estou indo mais para o lado da programação, sem uma stack fechada ainda: estudo C#, SQL, Git e Power BI, e já apliquei isso em um sistema de gestão de propostas em Blazor/.NET desenvolvido para uma empresa. Uso Excel avançado (Power Query, PivotTable, VBA) desde a época de operações, e uso Claude Code no dia a dia de desenvolvimento.
 
 <br>
 
@@ -36,25 +36,37 @@ Uso Excel avançado (Power Query, PivotTable, VBA) desde a época de operações
 
 ## Projetos
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://github.com/LeandroRtSouza/proponentes_assim">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=LeandroRtSouza&repo=proponentes_assim&theme=tokyonight&hide_border=true" />
-</a>
-<br>
-<sub>Desenvolvido por mim para uma empresa (ASSIM) — repositório hospedado na conta do cliente/parceiro do projeto.</sub>
+**[proponentes_assim](https://github.com/LeandroRtSouza/proponentes_assim)**
 
-<br><br>
+Sistema de gestão de propostas para credenciamento de profissionais, desenvolvido por mim para uma empresa (ASSIM). Repositório privado, hospedado na conta do cliente/parceiro do projeto.
 
-<a href="https://github.com/gutemberg-vercosa/lena-cabeleireira">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gutemberg-vercosa&repo=lena-cabeleireira&theme=tokyonight&hide_border=true" />
-</a>
+`C#` `.NET` `Blazor` `EF Core`
 
-<a href="https://github.com/gutemberg-vercosa/gastos-mensais">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gutemberg-vercosa&repo=gastos-mensais&theme=tokyonight&hide_border=true" />
-</a>
+</td>
+<td width="33%" valign="top">
 
-</div>
+**[lena-cabeleireira](https://github.com/gutemberg-vercosa/lena-cabeleireira)**
+
+Sistema de agendamento para salão de beleza, com backend em Supabase. Repositório privado.
+
+`React` `TypeScript` `Supabase`
+
+</td>
+<td width="33%" valign="top">
+
+**[gastos-mensais](https://github.com/gutemberg-vercosa/gastos-mensais)**
+
+Controle de gastos mensais. Repositório privado.
+
+`HTML` `CSS` `JavaScript` `Supabase`
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -64,8 +76,6 @@ Uso Excel avançado (Power Query, PivotTable, VBA) desde a época de operações
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gutemberg-vercosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gutemberg-vercosa&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gutemberg-vercosa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
