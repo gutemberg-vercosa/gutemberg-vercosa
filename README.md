@@ -20,6 +20,8 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 ## Tecnologias que uso de verdade
 
+<div align="center">
+
 **Backend & Dados**
 
 <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/icons-backend.svg" />
@@ -35,6 +37,8 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 **Ferramentas & Operação**
 
 <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/icons-ferramentas.svg" />
+
+</div>
 
 <br>
 
