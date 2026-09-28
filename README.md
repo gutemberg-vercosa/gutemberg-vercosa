@@ -10,7 +10,7 @@
 
 Formado em Engenharia de Produção (ESEG). Passei por Natura, SBT e Pluxee em funções variadas, com contato direto com processos, sistemas de gestão e rotinas administrativas e financeiras.
 
-Sempre quis adicionar programação à minha bagagem de dados e estou fazendo isso agora, ainda sem uma stack fechada. Já desenvolvi alguns aplicativos e sistemas usados para solucionar diferentes problemas.
+Sempre quis adicionar programação à minha bagagem de dados e estou fazendo isso agora, ainda sem uma stack fechada. Coloquei isso em prática construindo sistemas e aplicativos para problemas reais.
 
 <br>
 
