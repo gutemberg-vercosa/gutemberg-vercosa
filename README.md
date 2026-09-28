@@ -14,7 +14,7 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 <br>
 
-## Tecnologias que uso de verdade
+## Stack
 
 <div align="center">
 
