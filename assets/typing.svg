@@ -1,0 +1,31 @@
+<svg width="700" height="45" viewBox="0 0 700 45" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="reveal0"><rect x="0" y="0" width="650" height="45" class="r r0"/></clipPath>
+    <clipPath id="reveal1"><rect x="0" y="0" width="650" height="45" class="r r1"/></clipPath>
+    <clipPath id="reveal2"><rect x="0" y="0" width="650" height="45" class="r r2"/></clipPath>
+    <style>
+      text { font: 600 19px 'Consolas', 'Courier New', monospace; fill: #2C5364; }
+      .r { transform-box: fill-box; transform-origin: left center; transform: scaleX(0); animation: type 12s linear infinite; }
+      .r0 { animation-delay: 0s; }
+      .r1 { animation-delay: 4s; }
+      .r2 { animation-delay: 8s; }
+      @keyframes type {
+        0%   { transform: scaleX(0); }
+        8%   { transform: scaleX(1); }
+        27%  { transform: scaleX(1); }
+        32%  { transform: scaleX(0); }
+        100% { transform: scaleX(0); }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#reveal0)">
+    <text x="10" y="29">De operações pra programação</text>
+  </g>
+  <g clip-path="url(#reveal1)">
+    <text x="10" y="29">Python · C# · SQL · Power BI</text>
+  </g>
+  <g clip-path="url(#reveal2)">
+    <text x="10" y="29">Já entreguei sistemas reais</text>
+  </g>
+</svg>

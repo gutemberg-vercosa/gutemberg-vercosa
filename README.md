@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/banner.svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/gutemberg-duarte-25326b110/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=De+opera%C3%A7%C3%B5es+pra+programa%C3%A7%C3%A3o;Python+%C2%B7+C%23+%C2%B7+SQL+%C2%B7+Power+BI;Sempre+aprendendo+algo+novo;&font=Fira+Code&center=true&width=700&height=45&color=2C5364&vCenter=true&size=19&pause=1500"/>
+  <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/typing.svg" width="700" height="45"/>
 </a>
 
 </div>
