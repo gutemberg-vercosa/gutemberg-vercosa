@@ -45,6 +45,10 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 <a href="https://www.sap.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/sap.svg" alt="SAP"/></a>
 <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/oracle.svg" alt="Oracle"/></a>
 
+**Linguagens nos projetos públicos**
+
+<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg" alt="Porcentagem de linguagens nos projetos públicos"/>
+
 </div>
 
 <br>
