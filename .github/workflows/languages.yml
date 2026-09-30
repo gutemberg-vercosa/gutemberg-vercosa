@@ -29,7 +29,8 @@ jobs:
           git diff --quiet -- assets/languages.svg && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add assets/languages.svg
+          sed -i -E "s#(assets/languages\.svg\?v=)[0-9a-z]+#\1$(date +%s)#" README.md
+          git add assets/languages.svg README.md
           git commit -m "Atualiza linguagens dos projetos"
           git pull --rebase
           git push
