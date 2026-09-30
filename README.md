@@ -52,24 +52,11 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 ## Projetos
 
-<table>
-<tr>
-<td width="45%">
-<a href="https://gutemberg-vercosa.github.io/calculadora-indicadores-producao/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/calculadora-indicadores-producao/main/docs/preview.png" alt="Tela da calculadora de indicadores de produção"/></a>
-</td>
-<td valign="top">
+<div align="center">
 
-**[Indicadores de Produção](https://github.com/gutemberg-vercosa/calculadora-indicadores-producao)**
+<a href="https://github.com/gutemberg-vercosa/calculadora-indicadores-producao"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gutemberg-vercosa&repo=calculadora-indicadores-producao&theme=tokyonight&hide_border=true" alt="Repositório calculadora-indicadores-producao"/></a>
 
-Calculadora de OEE, takt time, lead time e capacidade produtiva. Mostra a conta de cada resultado e explica o que ele significa, apontando onde está a maior perda.
-
-`HTML` `CSS` `JavaScript`
-
-[Acessar o site](https://gutemberg-vercosa.github.io/calculadora-indicadores-producao/)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
