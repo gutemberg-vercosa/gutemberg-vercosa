@@ -13,14 +13,30 @@ const COLORS = {
 };
 const FALLBACK_COLOR = '#8b949e';
 
-const PRIVATE_TOKEN = process.env.LANGS_TOKEN;
+const PRIVATE_TOKEN = process.env.LANGS_TOKEN?.trim();
 const token = PRIVATE_TOKEN || process.env.GITHUB_TOKEN;
 const headers = { Accept: 'application/vnd.github+json', 'User-Agent': USER };
 if (token) headers.Authorization = `Bearer ${token}`;
 
+const HINTS = {
+  401: 'LANGS_TOKEN inválido ou expirado: gere o token de novo e atualize o secret.',
+  403: 'Token sem permissão ou limite da API atingido: confira se o token tem acesso a "All repositories".',
+  404: 'Repositório não encontrado para o token: confira se o token tem acesso a "All repositories".',
+};
+
+function fail(message) {
+  console.log(`::error title=Falha ao calcular linguagens::${message}`);
+  process.exit(1);
+}
+
 async function api(path) {
-  const res = await fetch(`https://api.github.com${path}`, { headers });
-  if (!res.ok) throw new Error(`${res.status} ${res.statusText} em ${path}`);
+  let res;
+  try {
+    res = await fetch(`https://api.github.com${path}`, { headers });
+  } catch (err) {
+    fail(`Não foi possível chamar a API do GitHub (${err.cause?.message ?? err.message}).`);
+  }
+  if (!res.ok) fail(`${res.status} ${res.statusText} em ${path}. ${HINTS[res.status] ?? ''}`);
   return res.json();
 }
 
