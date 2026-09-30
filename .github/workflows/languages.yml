@@ -21,7 +21,6 @@ jobs:
         run: node .github/scripts/languages.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
 
       - name: Commit if changed

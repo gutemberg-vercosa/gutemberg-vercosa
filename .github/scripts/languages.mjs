@@ -13,16 +13,8 @@ const COLORS = {
 };
 const FALLBACK_COLOR = '#8b949e';
 
-const PRIVATE_TOKEN = process.env.LANGS_TOKEN?.trim();
-const token = PRIVATE_TOKEN || process.env.GITHUB_TOKEN;
 const headers = { Accept: 'application/vnd.github+json', 'User-Agent': USER };
-if (token) headers.Authorization = `Bearer ${token}`;
-
-const HINTS = {
-  401: 'LANGS_TOKEN inválido ou expirado: gere o token de novo e atualize o secret.',
-  403: 'Token sem permissão ou limite da API atingido: confira se o token tem acesso a "All repositories".',
-  404: 'Repositório não encontrado para o token: confira se o token tem acesso a "All repositories".',
-};
+if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
 
 function fail(message) {
   console.log(`::error title=Falha ao calcular linguagens::${message}`);
@@ -36,19 +28,15 @@ async function api(path) {
   } catch (err) {
     fail(`Não foi possível chamar a API do GitHub (${err.cause?.message ?? err.message}).`);
   }
-  if (!res.ok) fail(`${res.status} ${res.statusText} em ${path}. ${HINTS[res.status] ?? ''}`);
+  if (!res.ok) fail(`${res.status} ${res.statusText} em ${path}.`);
   return res.json();
 }
 
 const escape = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
-const reposPath = PRIVATE_TOKEN
-  ? '/user/repos?affiliation=owner&visibility=all&per_page=100'
-  : `/users/${USER}/repos?type=owner&per_page=100`;
-const repos = (await api(reposPath))
+const repos = (await api(`/users/${USER}/repos?type=owner&per_page=100`))
   .filter((r) => !r.fork && r.name.toLowerCase() !== USER.toLowerCase());
-const mode = PRIVATE_TOKEN ? 'públicos + privados (LANGS_TOKEN)' : 'somente públicos (LANGS_TOKEN não encontrado)';
-console.log(`::notice title=Linguagens::Modo: ${mode}. Repositórios: ${repos.map((r) => r.name).join(', ') || 'nenhum'}`);
+console.log(`::notice title=Linguagens::Repositórios públicos: ${repos.map((r) => r.name).join(', ') || 'nenhum'}`);
 
 const totals = {};
 for (const repo of repos) {
