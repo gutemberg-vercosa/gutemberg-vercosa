@@ -54,31 +54,18 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-**[proponentes_assim](https://github.com/LeandroRtSouza/proponentes_assim)**
-
-Sistema de gestão de propostas para credenciamento de profissionais, desenvolvido por mim para uma empresa (ASSIM). Repositório privado, hospedado na conta do cliente/parceiro do projeto.
-
-`C#` `.NET` `Blazor` `EF Core`
-
+<td width="45%">
+<a href="https://gutemberg-vercosa.github.io/calculadora-indicadores-producao/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/calculadora-indicadores-producao/main/docs/preview.png" alt="Tela da calculadora de indicadores de produção"/></a>
 </td>
-<td width="33%" valign="top">
+<td valign="top">
 
-**[lena-cabeleireira](https://github.com/gutemberg-vercosa/lena-cabeleireira)**
+**[Indicadores de Produção](https://github.com/gutemberg-vercosa/calculadora-indicadores-producao)**
 
-Sistema de agendamento para salão de beleza, com backend em Supabase. Repositório privado.
+Calculadora de OEE, takt time, lead time e capacidade produtiva. Mostra a conta de cada resultado e explica o que ele significa, apontando onde está a maior perda.
 
-`React` `TypeScript` `Supabase`
+`HTML` `CSS` `JavaScript`
 
-</td>
-<td width="33%" valign="top">
-
-**[gastos-mensais](https://github.com/gutemberg-vercosa/gastos-mensais)**
-
-Controle de gastos mensais. Repositório privado.
-
-`HTML` `CSS` `JavaScript` `Supabase`
+[Acessar o site](https://gutemberg-vercosa.github.io/calculadora-indicadores-producao/)
 
 </td>
 </tr>
