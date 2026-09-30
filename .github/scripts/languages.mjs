@@ -31,6 +31,8 @@ const reposPath = PRIVATE_TOKEN
   : `/users/${USER}/repos?type=owner&per_page=100`;
 const repos = (await api(reposPath))
   .filter((r) => !r.fork && r.name.toLowerCase() !== USER.toLowerCase());
+console.log(`Modo: ${PRIVATE_TOKEN ? 'públicos + privados (LANGS_TOKEN)' : 'somente públicos (LANGS_TOKEN ausente)'}`);
+console.log(`Repositórios: ${repos.map((r) => r.name).join(', ') || 'nenhum'}`);
 
 const totals = {};
 for (const repo of repos) {

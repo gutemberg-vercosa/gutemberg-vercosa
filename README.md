@@ -47,7 +47,7 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 **Linguagens nos meus projetos**
 
-<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg" alt="Porcentagem de linguagens nos meus projetos"/>
+<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg?v=2" alt="Porcentagem de linguagens nos meus projetos"/>
 
 </div>
 
