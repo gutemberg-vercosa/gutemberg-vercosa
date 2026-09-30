@@ -20,34 +20,34 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 **Backend & Dados**
 
-<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/csharp.svg" alt="C#"/></a>
-<a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/dotnet.svg" alt=".NET"/></a>
-<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/blazor.svg" alt="Blazor"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/python.svg" alt="Python"/></a>
-<a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/sql.svg" alt="SQL"/></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/csharp.svg?v=2" alt="C#"/></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/dotnet.svg?v=2" alt=".NET"/></a>
+<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/blazor.svg?v=2" alt="Blazor"/></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/python.svg?v=2" alt="Python"/></a>
+<a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/sql.svg?v=2" alt="SQL"/></a>
 
 **Frontend**
 
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/html5.svg" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/css3.svg" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/javascript.svg" alt="JavaScript"/></a>
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/react.svg" alt="React"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/typescript.svg" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/html5.svg?v=2" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/css3.svg?v=2" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/javascript.svg?v=2" alt="JavaScript"/></a>
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/react.svg?v=2" alt="React"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/typescript.svg?v=2" alt="TypeScript"/></a>
 
 **Ferramentas & Produtividade**
 
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/git.svg" alt="Git"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/vscode.svg" alt="VS Code"/></a>
-<a href="https://claude.com/claude-code"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/claude.svg" alt="Claude"/></a>
-<a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/excel.svg" alt="Excel"/></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/powerbi.svg" alt="Power BI"/></a>
-<a href="https://www.salesforce.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/salesforce.svg" alt="Salesforce"/></a>
-<a href="https://www.sap.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/sap.svg" alt="SAP"/></a>
-<a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/oracle.svg" alt="Oracle"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/git.svg?v=2" alt="Git"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/vscode.svg?v=2" alt="VS Code"/></a>
+<a href="https://claude.com/claude-code"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/claude.svg?v=2" alt="Claude"/></a>
+<a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/excel.svg?v=2" alt="Excel"/></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/powerbi.svg?v=2" alt="Power BI"/></a>
+<a href="https://www.salesforce.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/salesforce.svg?v=2" alt="Salesforce"/></a>
+<a href="https://www.sap.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/sap.svg?v=2" alt="SAP"/></a>
+<a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/oracle.svg?v=2" alt="Oracle"/></a>
 
-**Linguagens nos projetos públicos**
+**Linguagens nos meus projetos**
 
-<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg" alt="Porcentagem de linguagens nos projetos públicos"/>
+<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg" alt="Porcentagem de linguagens nos meus projetos"/>
 
 </div>
 

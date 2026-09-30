@@ -13,8 +13,10 @@ const COLORS = {
 };
 const FALLBACK_COLOR = '#8b949e';
 
+const PRIVATE_TOKEN = process.env.LANGS_TOKEN;
+const token = PRIVATE_TOKEN || process.env.GITHUB_TOKEN;
 const headers = { Accept: 'application/vnd.github+json', 'User-Agent': USER };
-if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+if (token) headers.Authorization = `Bearer ${token}`;
 
 async function api(path) {
   const res = await fetch(`https://api.github.com${path}`, { headers });
@@ -24,12 +26,15 @@ async function api(path) {
 
 const escape = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
-const repos = (await api(`/users/${USER}/repos?type=owner&per_page=100`))
+const reposPath = PRIVATE_TOKEN
+  ? '/user/repos?affiliation=owner&visibility=all&per_page=100'
+  : `/users/${USER}/repos?type=owner&per_page=100`;
+const repos = (await api(reposPath))
   .filter((r) => !r.fork && r.name.toLowerCase() !== USER.toLowerCase());
 
 const totals = {};
 for (const repo of repos) {
-  const langs = await api(`/repos/${USER}/${repo.name}/languages`);
+  const langs = await api(`/repos/${repo.full_name}/languages`);
   for (const [lang, bytes] of Object.entries(langs)) totals[lang] = (totals[lang] ?? 0) + bytes;
 }
 
@@ -45,7 +50,7 @@ const style = '<style>.t{font:600 14px -apple-system,Segoe UI,Helvetica,Arial,sa
 let svg;
 
 if (sum === 0) {
-  svg = `<svg width="${WIDTH}" height="30" viewBox="0 0 ${WIDTH} 30" xmlns="http://www.w3.org/2000/svg">${style}<text class="t" x="${WIDTH / 2}" y="20" text-anchor="middle">Nenhum projeto público ainda</text></svg>\n`;
+  svg = `<svg width="${WIDTH}" height="30" viewBox="0 0 ${WIDTH} 30" xmlns="http://www.w3.org/2000/svg">${style}<text class="t" x="${WIDTH / 2}" y="20" text-anchor="middle">Nenhum projeto ainda</text></svg>\n`;
 } else {
   const COLS = 3;
   const colW = WIDTH / COLS;
@@ -69,4 +74,4 @@ if (sum === 0) {
 }
 
 writeFileSync(OUTPUT, svg);
-console.log(`${repos.length} repositório(s) público(s), ${entries.length} linguagem(ns).`);
+console.log(`${repos.length} repositório(s), ${entries.length} linguagem(ns).`);
