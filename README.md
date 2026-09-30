@@ -41,9 +41,6 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 <a href="https://claude.com/claude-code"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/claude.svg?v=2" alt="Claude"/></a>
 <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/excel.svg?v=2" alt="Excel"/></a>
 <a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/powerbi.svg?v=2" alt="Power BI"/></a>
-<a href="https://www.salesforce.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/salesforce.svg?v=2" alt="Salesforce"/></a>
-<a href="https://www.sap.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/sap.svg?v=2" alt="SAP"/></a>
-<a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/tech/oracle.svg?v=2" alt="Oracle"/></a>
 
 ### Linguagens nos meus projetos
 
