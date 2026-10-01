@@ -76,7 +76,8 @@ function languagesSvg(totals) {
 
 const totals = {};
 for (const repo of repos) {
-  for (const [lang, bytes] of Object.entries(await api(`/repos/${repo.full_name}/languages`))) {
+  repo.languages = await api(`/repos/${repo.full_name}/languages`); // usado também nos cards
+  for (const [lang, bytes] of Object.entries(repo.languages)) {
     totals[lang] = (totals[lang] ?? 0) + bytes;
   }
 }
@@ -107,18 +108,28 @@ function wrap(text) {
 function cardSvg(repo) {
   const description = wrap(repo.description ?? 'Sem descrição.')
     .map((line, i) => `<text class="d" x="25" y="${64 + i * 19}">${escape(line)}</text>`).join('');
-  const color = COLORS[repo.language] ?? FALLBACK_COLOR;
-  const language = repo.language
-    ? `<circle cx="31" cy="131" r="6" fill="${color}"/><text class="m" x="44" y="136">${escape(repo.language)}</text>`
-    : '';
-  const stars = `<g transform="translate(${repo.language ? 160 : 25},122)"><path class="i" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/><text class="m" x="22" y="14">${repo.stargazers_count}</text></g>`;
+  // As três linguagens com mais código no repositório, com a porcentagem de cada uma.
+  const sum = Object.values(repo.languages).reduce((a, b) => a + b, 0);
+  let x = 25;
+  const languages = Object.entries(repo.languages)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3)
+    .map(([lang, bytes]) => {
+      const label = `${lang} ${Math.round((bytes / sum) * 100)}%`;
+      const item = `<circle cx="${x + 6}" cy="131" r="6" fill="${COLORS[lang] ?? FALLBACK_COLOR}"/>`
+        + `<text class="m" x="${x + 18}" y="136">${escape(label)}</text>`;
+      x += 18 + label.length * 6.5 + 16; // largura aproximada do texto em 12px, mais um respiro
+      return item;
+    })
+    .join('');
+  const stars = `<g transform="translate(345,122)"><path class="i" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/><text class="m" x="22" y="14">${repo.stargazers_count}</text></g>`;
 
   return `<svg width="${CARD.width}" height="${CARD.height}" viewBox="0 0 ${CARD.width} ${CARD.height}" xmlns="http://www.w3.org/2000/svg">`
     + `<style>.n{font:600 18px ${FONT};fill:#70a5fd}.d{font:400 13px ${FONT};fill:#38bdae}.m{font:400 12px ${FONT};fill:#38bdae}.i{fill:#bf91f3}</style>`
     + `<rect width="${CARD.width}" height="${CARD.height}" rx="4.5" fill="#1a1b27"/>`
     + `<g transform="translate(25,22)"><path class="i" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></g>`
     + `<text class="n" x="50" y="38">${escape(repo.name)}</text>`
-    + description + language + stars
+    + description + languages + stars
     + `</svg>\n`;
 }
 

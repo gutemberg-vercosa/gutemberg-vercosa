@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/banner.svg" width="100%" alt="Gutemberg Duarte"/>
 
@@ -54,8 +54,8 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 <div align="center">
 
-<a href="https://github.com/gutemberg-vercosa/calculadora-indicadores-producao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/calculadora-indicadores-producao.svg?v=1" alt="Repositório calculadora-indicadores-producao"/></a>
-<a href="https://github.com/gutemberg-vercosa/treino-digitacao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/treino-digitacao.svg?v=1" alt="Repositório treino-digitacao"/></a>
+<a href="https://github.com/gutemberg-vercosa/calculadora-indicadores-producao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/calculadora-indicadores-producao.svg?v=2" alt="Repositório calculadora-indicadores-producao"/></a>
+<a href="https://github.com/gutemberg-vercosa/treino-digitacao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/treino-digitacao.svg?v=2" alt="Repositório treino-digitacao"/></a>
 
 </div>
 
