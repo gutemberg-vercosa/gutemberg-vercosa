@@ -54,8 +54,8 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 <div align="center">
 
-<a href="https://github.com/gutemberg-vercosa/calculadora-indicadores-producao"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gutemberg-vercosa&repo=calculadora-indicadores-producao&theme=tokyonight&hide_border=true" alt="Repositório calculadora-indicadores-producao"/></a>
-<a href="https://github.com/gutemberg-vercosa/treino-digitacao"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gutemberg-vercosa&repo=treino-digitacao&theme=tokyonight&hide_border=true" alt="Repositório treino-digitacao"/></a>
+<a href="https://github.com/gutemberg-vercosa/calculadora-indicadores-producao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/calculadora-indicadores-producao.svg?v=1" alt="Repositório calculadora-indicadores-producao"/></a>
+<a href="https://github.com/gutemberg-vercosa/treino-digitacao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/treino-digitacao.svg?v=1" alt="Repositório treino-digitacao"/></a>
 
 </div>
 

@@ -1,4 +1,4 @@
-name: Update Languages SVG
+name: Atualizar imagens do perfil
 
 on:
   schedule:
@@ -17,19 +17,21 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate languages SVG
-        run: node .github/scripts/languages.mjs
+      - name: Gerar linguagens e cards dos projetos
+        run: node .github/scripts/perfil.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
 
-      - name: Commit if changed
+      - name: Publicar se algo mudou
         run: |
-          git diff --quiet -- assets/languages.svg && exit 0
+          git add assets
+          git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          sed -i -E "s#(assets/languages\.svg\?v=)[0-9a-z]+#\1$(date +%s)#" README.md
-          git add assets/languages.svg README.md
-          git commit -m "Atualiza linguagens dos projetos"
+          # Novo ?v= nas imagens força o GitHub a buscar a versão nova em vez da que está em cache.
+          sed -i -E "s#(assets/(languages|projetos/[^?\"]+)\.svg\?v=)[0-9a-z]+#\1$(date +%s)#g" README.md
+          git add README.md
+          git commit -m "Atualiza imagens do perfil"
           git pull --rebase
           git push
