@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/banner.svg" width="100%" alt="Gutemberg Duarte"/>
 
