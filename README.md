@@ -44,7 +44,7 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 ### Linguagens nos meus projetos
 
-<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg?v=2" alt="Porcentagem de linguagens nos meus projetos"/>
+<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg?v=3" alt="Porcentagem de linguagens nos meus projetos"/>
 
 </div>
 
@@ -57,6 +57,7 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 <a href="https://github.com/gutemberg-vercosa/calculadora-indicadores-producao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/calculadora-indicadores-producao.svg?v=4" alt="Repositório calculadora-indicadores-producao"/></a>
 <a href="https://github.com/gutemberg-vercosa/treino-digitacao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/treino-digitacao.svg?v=4" alt="Repositório treino-digitacao"/></a>
 <a href="https://github.com/gutemberg-vercosa/jogo-da-velha"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/jogo-da-velha.svg?v=2" alt="Repositório jogo-da-velha"/></a>
+<a href="https://github.com/gutemberg-vercosa/reconhecimento-digitos"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/reconhecimento-digitos.svg?v=1" alt="Repositório reconhecimento-digitos"/></a>
 
 </div>
 
