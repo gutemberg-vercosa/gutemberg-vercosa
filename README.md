@@ -44,7 +44,7 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 ### Linguagens nos meus projetos
 
-<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg?v=1791109025" alt="Porcentagem de linguagens nos meus projetos"/>
+<img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/languages.svg?v=1791159738" alt="Porcentagem de linguagens nos meus projetos"/>
 
 </div>
 
@@ -54,10 +54,10 @@ Sempre quis adicionar programação à minha bagagem de dados e estou fazendo is
 
 <div align="center">
 
-<a href="https://github.com/gutemberg-vercosa/calculadora-indicadores-producao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/calculadora-indicadores-producao.svg?v=1791109025" alt="Repositório calculadora-indicadores-producao"/></a>
-<a href="https://github.com/gutemberg-vercosa/reconhecimento-digitos"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/reconhecimento-digitos.svg?v=1791109025" alt="Repositório reconhecimento-digitos"/></a>
-<a href="https://github.com/gutemberg-vercosa/previsao-tempo"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/previsao-tempo.svg?v=1791109025" alt="Repositório previsao-tempo"/></a>
-<a href="https://github.com/gutemberg-vercosa/rastreador-vagas"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/rastreador-vagas.svg?v=1791109025" alt="Repositório rastreador-vagas"/></a>
+<a href="https://github.com/gutemberg-vercosa/calculadora-indicadores-producao"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/calculadora-indicadores-producao.svg?v=1791159738" alt="Repositório calculadora-indicadores-producao"/></a>
+<a href="https://github.com/gutemberg-vercosa/reconhecimento-digitos"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/reconhecimento-digitos.svg?v=1791159738" alt="Repositório reconhecimento-digitos"/></a>
+<a href="https://github.com/gutemberg-vercosa/previsao-tempo"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/previsao-tempo.svg?v=1791159738" alt="Repositório previsao-tempo"/></a>
+<a href="https://github.com/gutemberg-vercosa/rastreador-vagas"><img src="https://raw.githubusercontent.com/gutemberg-vercosa/gutemberg-vercosa/main/assets/projetos/rastreador-vagas.svg?v=1791159738" alt="Repositório rastreador-vagas"/></a>
 
 <sub><a href="https://github.com/gutemberg-vercosa?tab=repositories">Ver todos os projetos →</a></sub>
 
