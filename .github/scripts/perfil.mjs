@@ -6,7 +6,7 @@ const USER = process.env.GH_USER ?? 'gutemberg-vercosa';
 const MAX_LANGS = 8;
 
 const COLORS = {
-  'C#': '#178600', Python: '#3572A5', JavaScript: '#f1e05a', TypeScript: '#3178c6',
+  'C#': '#178600', Python: '#14b8a6', JavaScript: '#f1e05a', TypeScript: '#3178c6',
   HTML: '#e34c26', CSS: '#663399', SCSS: '#c6538c', Java: '#b07219', Go: '#00ADD8',
   PHP: '#4F5D95', Ruby: '#701516', Shell: '#89e051', PowerShell: '#012456',
   PLpgSQL: '#336790', TSQL: '#e38c00', SQL: '#e38c00', Kotlin: '#A97BFF', Dart: '#00B4AB',
